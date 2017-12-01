@@ -9,3 +9,5 @@ Suggestions, modifications, interpretation fixes always welcome!
 
 Enjoy,
 Chris
+
+chris@solliance.net
